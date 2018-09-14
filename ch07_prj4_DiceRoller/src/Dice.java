@@ -6,10 +6,10 @@ public class Dice {
 	
 	/*
 	 * create two instance of Die.
-	 * the contructor of Die will generate
+	 * the constructor of Die will generate
 	 * a random value (rolling of the die)
 	 * 
-	 * Note to studesnts this is deff than 
+	 * Note to students this is deff than 
 	 * state in the 
 	 */
 	public Dice() {
